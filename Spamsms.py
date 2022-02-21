@@ -62,9 +62,9 @@ else:
    jml = int(input('\n\033[37m[\033[32m+\033[37m] \033[33mJumlah\033[31m:\033[32m '))
 
 # Janggan di ubah
-heder = {'Host': 'www.matahari.com',
+heder = {'Host': 'www.ADMINslotKONTOL.com',
            'content-length': '240',
-           'origin': 'https://www.matahari.com',
+           'origin': 'https://www.ADMINslotKONTOL.com',
            'x-newrelic-id': 'Vg4GVFVXDxAGVVlVBgcGVlY=',
            'content-type': 'application/json',
            'accept': '*/*',
@@ -73,7 +73,7 @@ heder = {'Host': 'www.matahari.com',
            'sec-fetch-site': 'same-origin',
            'sec-fetch-mode': 'cors',
            'sec-fetch-dest': 'empty',
-           'referer': 'https://www.matahari.com/customer/account/create/',
+           'referer': 'https://www.ADMINslotKONTOL.com/customer/account/create/',
            'accept-encoding': 'gzip, deflate, br',
            'accept-language': 'id-ID,id;q=0.9,en;q=0.8'}
 
